@@ -1,0 +1,1 @@
+Place the CEO portrait image named marshall.png in this same folder (the project root: mathcloud tutorial 4 in 1 learning hub/). The landing page automatically falls back to mathcloud-human-guide.png until marshall.png is present.
